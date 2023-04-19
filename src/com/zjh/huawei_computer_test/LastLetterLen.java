@@ -2,7 +2,7 @@ package com.zjh.huawei_computer_test;
 
 import java.util.UUID;
 
-public class Main {
+public class LastLetterLen {
     public static String testData() {
         int len = (int)(Math.random() * 100);
         StringBuilder stringBuilder = new StringBuilder();
